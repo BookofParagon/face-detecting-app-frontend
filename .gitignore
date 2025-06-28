@@ -1,0 +1,10 @@
+# frontend dependencies
+node_modules
+package-lock.json
+
+# frontend development
+public/videos
+public/icons
+public/files
+coverage
+build

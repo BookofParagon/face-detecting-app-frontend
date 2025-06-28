@@ -1,0 +1,16 @@
+h1,
+h2,
+h3,
+p,
+label {
+    color: #131313;
+}
+
+.App {
+    text-align: center;
+    height: 100vh;
+}
+
+.error-text {
+    color: #f8f8f8;
+}

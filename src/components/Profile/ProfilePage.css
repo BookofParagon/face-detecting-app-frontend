@@ -1,0 +1,80 @@
+.profile-main-content {
+    flex-grow: 1;
+    text-align: left;
+    margin-left: 80px;
+    padding: 10px;
+    background-color: #2e2e2e;
+    overflow: hidden;
+}
+
+.profile-main-content p {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.profile-main-content input,
+.profile-main-content textarea {
+    font-size: 18px;
+    font-weight: 500;
+    font-family: Montserrat;
+}
+
+.profile-main-content input {
+    width: 20%;
+}
+
+.profile-main-content textarea {
+    width: 75%;
+    height: 100px;
+}
+
+.profile-field {
+    display: flex;
+    align-items: center;
+}
+
+.profile-field p {
+    margin: 0;
+    margin-right: 10px;
+}
+
+.profile-container-250px {
+    display: flex;
+    flex-direction: column;
+    height: 250px;
+    margin: 30px;
+    padding: 10px;
+    border: 10px solid black;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.profile-container-200px {
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    margin: 30px;
+    padding: 10px;
+    border: 10px solid black;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.profile-container-200px button,
+.profile-container-250px button {
+    font-size: 20px;
+    font-weight: 600;
+    width: 190px;
+    padding: 7px;
+    margin-top: auto;
+    margin-left: auto;
+    color: #131313;
+    background-color: white;
+    cursor: pointer;
+    border: 0;
+}
+
+.profile-container-200px button:hover,
+.profile-container-250px button:hover {
+    text-decoration: underline;
+}
