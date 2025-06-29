@@ -21,7 +21,14 @@
 
 ## Скришоты пользовательского интерфейса
 
+### Страница входа
 <img src="screenshots/Вход.png" alt="sign in"  />
+
+### Главная страница с камерами
 <img src="screenshots/Главная.png" alt="main page"  />
+
+### Настройки приложения
 <img src="screenshots/Настройки.png" alt="settings"  />
+
+### Добавление сотрудников в базу
 <img src="screenshots/Сотрудники.png" alt="add stuff menu"  />
