@@ -21,7 +21,7 @@
 
 ## Скришоты пользовательского интерфейса
 
-<img src="public/files/Вход.png" alt="sign in"  />
-<img src="public/files/Главная.png" alt="main page"  />
-<img src="public/files/Настройки.png" alt="settings"  />
-<img src="public/files/Сотрудники.png" alt="add stuff menu"  />
+<img src="screenshots/Вход.png" alt="sign in"  />
+<img src="screenshots/Главная.png" alt="main page"  />
+<img src="screenshots/Настройки.png" alt="settings"  />
+<img src="screenshots/Сотрудники.png" alt="add stuff menu"  />
